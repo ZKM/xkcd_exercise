@@ -1,0 +1,4 @@
+Implemented in ruby.
+
+Execute with:
+  ruby menu.rb <path to menu file>
